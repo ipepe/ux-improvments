@@ -1,4 +1,5 @@
-# Presentation of concept code
+# YouTube drag'n'drop for autoplay
+## Presentation of concept code
 ```javascript
 document.querySelectorAll('span.yt-uix-simple-thumb-wrap.yt-uix-simple-thumb-related img').forEach(function(item, index){
   if(!item.id){
